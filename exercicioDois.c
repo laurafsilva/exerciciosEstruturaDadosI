@@ -1,3 +1,11 @@
+/*Faça um programa que recebe como entrada três graus:
+G1, G2 e G3 e calcula a média, se o aluno estiver
+aprovado, ou informa a necessidade de uma prova final,
+se o aluno não tiver satisfeito o seguinte critério:
+– Todas as notas maiores ou iguais a 3 E
+– Média aritmética maior ou igual a 5
+• Coloque o cálculo da média em uma função separada*/
+
 #include<stdio.h>
 int calcularMedia(int notaUm, int notaDois, int notaTres);
 int main(){
